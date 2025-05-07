@@ -27,19 +27,17 @@ Yongqi Li, **Zhen Zhang**, Wenjie Wang, Liqiang Nie, Wenjie Li, Tat-Seng Chua
 ACL 2024 Findings (Full)
 [paper](https://aclanthology.org/2024.findings-acl.662.pdf) | [code](https://github.com/liyongqi67/MINDER)
 
-- **Exploring Training and Inference Scaling Laws in Generative Retrieval** /
-
-Hongru Cai, Yongqi Li, Ruifeng Yuan, Wenjie Wang, **Zhen Zhang**, Wenjie Li, Tat-Seng Chua /
-
+- **Exploring Training and Inference Scaling Laws in Generative Retrieval**  
+Hongru Cai, Yongqi Li, Ruifeng Yuan, Wenjie Wang, **Zhen Zhang**, Wenjie Li, Tat-Seng Chua  
 SIGIR 2025 (Full)
 [Paper](https://arxiv.org/abs/2503.18941) | [Code](https://github.com/HongruCai/SLGR)
 
 Experience
 ======
-**Research Assistant** /
-[NExT++](https://www.nextcenter.org/), National University of Singapore. /
-Mainly worked on Generative Retrieval  with [Dr. Yongqi Li](https://liyongqi67.github.io/) and [Dr. Wenjie Wang](https://wenjiewwj.github.io/). /
-Advisor: [Prof. Tat-Seng Chua](https://www.chuatatseng.com/). /
+**Research Assistant**  
+[NExT++](https://www.nextcenter.org/), National University of Singapore.  
+Mainly worked on Generative Retrieval  with [Dr. Yongqi Li](https://liyongqi67.github.io/) and [Dr. Wenjie Wang](https://wenjiewwj.github.io/).  
+Advisor: [Prof. Tat-Seng Chua](https://www.chuatatseng.com/).  
 Oct 2023 - October 2024
 
 Professional Services
