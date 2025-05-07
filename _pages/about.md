@@ -22,10 +22,8 @@ News
 
 Publication
 ======
-- **Distillation Enhanced Generative Retrieval** /
-
-Yongqi Li, **Zhen Zhang**, Wenjie Wang, Liqiang Nie, Wenjie Li, Tat-Seng Chua /
-
+- **Distillation Enhanced Generative Retrieval**  
+Yongqi Li, **Zhen Zhang**, Wenjie Wang, Liqiang Nie, Wenjie Li, Tat-Seng Chua  
 ACL 2024 Findings (Full)
 [paper](https://aclanthology.org/2024.findings-acl.662.pdf) | [code](https://github.com/liyongqi67/MINDER)
 
@@ -46,4 +44,4 @@ Oct 2023 - October 2024
 
 Professional Services
 ======
-Reviewer of ACL 2025, SIGIR 2024.
+Reviewer of ACL 2025, SIGIR 2025, KDD 2025
