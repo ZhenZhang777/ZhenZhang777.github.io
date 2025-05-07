@@ -23,12 +23,16 @@ News
 Publication
 ======
 - **Distillation Enhanced Generative Retrieval** /
+
 Yongqi Li, **Zhen Zhang**, Wenjie Wang, Liqiang Nie, Wenjie Li, Tat-Seng Chua /
+
 ACL 2024 Findings (Full)
 [paper](https://aclanthology.org/2024.findings-acl.662.pdf) | [code](https://github.com/liyongqi67/MINDER)
 
-- Exploring Training and Inference Scaling Laws in Generative Retrieval /
+- **Exploring Training and Inference Scaling Laws in Generative Retrieval** /
+
 Hongru Cai, Yongqi Li, Ruifeng Yuan, Wenjie Wang, **Zhen Zhang**, Wenjie Li, Tat-Seng Chua /
+
 SIGIR 2025 (Full)
 [Paper](https://arxiv.org/abs/2503.18941) | [Code](https://github.com/HongruCai/SLGR)
 
